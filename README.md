@@ -1,0 +1,1 @@
+# WebApplicationAspNetCoreMVC_MicrosoftTemplate
